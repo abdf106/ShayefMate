@@ -1,6 +1,6 @@
-# yolov5_object_tester
+# ShayefMate
 
-A new Flutter project.
+Voice Assistant Application for Visually Impaired Individuals.
 
 ## Getting Started
 
